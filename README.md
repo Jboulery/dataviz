@@ -124,3 +124,18 @@ This achievement shows how difficult it is to put a lot of information in a give
 </table>
 Time charts main issue is related to how scale is chosen. 
 Timeline charts tend to become more and more interactive as fixed shapes reduce their potential. In fact, to zoom in our zoom out is often needed to have more or less information on a given period of time. 
+
+** Real timelines **
+
+As linear scale is much more familiar for any human being, some historical sites propose to walk along a "real timeline" (a graduated trail). There is such a timeline at the Grand Canyon National Park. Tested and approved !
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://www.nps.gov/grca/learn/news/images/Grand-Canyon-Trail-of-Time-201009mq_7217.jpg" style="width: 100px;">
+    </td>
+    <td>
+      <a href="https://www.nps.gov/grca/learn/news/2011-12-16_tot.htm">Grand Canyon National Park’s Trail of Time follows the park’s paved Rim </a><br>by Michael Quinn
+    </td>
+  </tr>
+</table>
